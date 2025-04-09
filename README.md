@@ -137,3 +137,10 @@ uv run chainlit run main.py --headless
 ---
 
 Enjoy your seamless email management experience with the Gmail Support Agent!
+
+
+## Sample Images of the run
+
+<img width="1440" alt="chainlit UI with mcp" src="https://github.com/user-attachments/assets/f85b0889-2159-4dbb-98e1-2dd404cf2904" />
+
+<img width="1440" alt="openai agents sdk agent reply" src="https://github.com/user-attachments/assets/6758b0ae-0e10-4c4d-8cc5-c0523fb26e76" />
